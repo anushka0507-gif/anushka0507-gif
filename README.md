@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=ANUSHKA%20BARMAN&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CODE%20%7C%20CREATE%20%7C%20GROW&descAlignY=62&descSize=17&color=0f0f0f&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=ANUSHKA%20BARMAN&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CODE%20%7C%20CREATE%20%7C%20GROW&descAlignY=62&descSize=17&color=0:12000f,25:4a123c,50:ff1493,75:8a2be2,100:12000f&animation=twinkling"/>
 
 <br>
 
@@ -12,21 +12,20 @@
 
 </div>
 
+<br>
+
 ---
 
 <div align="center">
 
-## 🌙 MIDNIGHT PINK
-
-### A little space where I learn, build & experiment.
+## ✦ ABOUT ME
 
 </div>
 
 <table align="center">
 <tr>
-<td width="58%" valign="top">
 
-## ✦ About Me
+<td width="58%" valign="top">
 
 Hi! I'm **Anushka Barman**, a Computer Science & Engineering student interested in **Frontend Development and Web Design**.
 
@@ -48,12 +47,16 @@ Currently, I'm focusing on:
 
 <div align="center">
 
-**ANUSHKA BARMAN**
+### ANUSHKA BARMAN
 
-`CSE Student`  
-`Frontend Learner`  
-`Web Development`  
-`JavaScript`  
+`CSE Student`
+
+`Frontend Learner`
+
+`Web Development`
+
+`JavaScript`
+
 `DSA`
 
 **Status:** Learning...
@@ -61,14 +64,25 @@ Currently, I'm focusing on:
 </div>
 
 </td>
+
 </tr>
 </table>
+
+<br>
+
+<div align="center">
+
+> ✦ Learning is a journey, not a race. ✦
+
+</div>
 
 ---
 
 <div align="center">
 
 ## 💗 MY DIGITAL TOOLKIT
+
+<br>
 
 ### Programming
 
@@ -93,6 +107,8 @@ Currently, I'm focusing on:
 <div align="center">
 
 ## 🌸 CURRENTLY LEARNING
+
+<br>
 
 <table>
 <tr>
@@ -166,33 +182,41 @@ Creating layouts for different screens.
 <tr>
 
 <td align="center">
+
 📖<br>
 <b>LEARN</b><br>
-Understand
+<sub>Understand</sub>
+
 </td>
 
 <td>→</td>
 
 <td align="center">
+
 💻<br>
 <b>BUILD</b><br>
-Practice
+<sub>Practice</sub>
+
 </td>
 
 <td>→</td>
 
 <td align="center">
+
 🐛<br>
 <b>DEBUG</b><br>
-Find mistakes
+<sub>Find mistakes</sub>
+
 </td>
 
 <td>→</td>
 
 <td align="center">
+
 ✨<br>
 <b>IMPROVE</b><br>
-Grow
+<sub>Grow</sub>
+
 </td>
 
 </tr>
@@ -220,6 +244,10 @@ Grow
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka0507-gif&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&title_color=ff69b4"/>
 
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anushka0507-gif&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true&custom_title=My%20GitHub%20Activity" width="95%"/>
+
 </div>
 
 ---
@@ -230,8 +258,39 @@ Grow
 
 <br>
 
-| 🎨 Drawing | 🎵 Music | 🏏 Cricket | 🌱 Exploring |
-|:---:|:---:|:---:|:---:|
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+🎨<br>
+<b>Drawing</b>
+
+</td>
+
+<td align="center" width="25%">
+
+🎵<br>
+<b>Music</b>
+
+</td>
+
+<td align="center" width="25%">
+
+🏏<br>
+<b>Cricket</b>
+
+</td>
+
+<td align="center" width="25%">
+
+🌱<br>
+<b>Exploring</b>
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
@@ -247,14 +306,22 @@ Grow
 
 <br>
 
-**FRONTEND**  
-↓  
-**JAVASCRIPT**  
-↓  
-**DSA**  
-↓  
-**MORE PROJECTS**  
-↓  
+**FRONTEND**
+
+↓
+
+**JAVASCRIPT**
+
+↓
+
+**DSA**
+
+↓
+
+**MORE PROJECTS**
+
+↓
+
 **KEEP GROWING**
 
 <br><br>
@@ -269,11 +336,27 @@ Grow
 
 ## 💌 LET'S CONNECT
 
-<br>
+<br><br>
 
-<a href="https://github.com/anushka0507-gif">
+<a href="mailto:anushkabarman0507@gmail.com">
 
-<img src="https://img.shields.io/badge/GitHub-ANUSHKA0507--GIF-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-anushkabarman0507%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/anushka-barman-7a0104380">
+
+<img src="https://img.shields.io/badge/LinkedIn-Anushka%20Barman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+<a href="https://x.com/AnushkaaaB07">
+
+<img src="https://img.shields.io/badge/X-@AnushkaaaB07-000000?style=for-the-badge&logo=x&logoColor=white"/>
 
 </a>
 
@@ -287,6 +370,6 @@ Grow
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0f0f0f&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:12000f,25:4a123c,50:ff1493,75:8a2be2,100:12000f&animation=twinkling"/>
 
 </div>
