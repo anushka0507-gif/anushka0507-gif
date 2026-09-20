@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=ANUSHKA%20BARMAN&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CODE%20%7C%20CREATE%20%7C%20GROW&descAlignY=62&descSize=17&color=0:12000f,25:4a123c,50:ff1493,75:8a2be2,100:12000f&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=ANUSHKA%20BARMAN&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CODE%20%7C%20CREATE%20%7C%20GROW&descAlignY=62&descSize=17&color=0:12000f,25:33232a,50:5c4248,75:8a6b72,100:12000f&animation=twinkling"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=900&color=FF69B4&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Anushka+%F0%9F%8C%B8;CSE+Student+%7C+Frontend+Learner;Turning+Ideas+Into+Web+Interfaces;Learning+JavaScript+%26+DSA;One+Step+Closer+Every+Day+%E2%9C%A8"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=900&color=FFB6C1&center=true&vCenter=true&width=720&lines=ANUSHKA+BARMAN+%F0%9F%8C%B8;CSE+Student+%7C+Frontend+Learner;Turning+Ideas+Into+Web+Interfaces;Learning+JavaScript+%26+DSA;One+Step+Closer+Every+Day+%E2%9C%A8"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=anushka0507-gif&label=PROFILE%20VIEWS&color=ff69b4&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=anushka0507-gif&label=PROFILE%20VIEWS&color=FFB6C1&style=for-the-badge"/>
 
 </div>
 
@@ -80,7 +80,7 @@ Currently, I'm focusing on:
 
 <div align="center">
 
-## 💗 MY DIGITAL TOOLKIT
+## 🌸 MY DIGITAL TOOLKIT
 
 <br>
 
@@ -106,7 +106,7 @@ Currently, I'm focusing on:
 
 <div align="center">
 
-## 🌸 CURRENTLY LEARNING
+## 🎀 CURRENTLY LEARNING
 
 <br>
 
@@ -142,9 +142,9 @@ Creating layouts for different screens.
 
 <br>
 
-<img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/DSA-Learning-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Responsive%20Design-Practicing-FF69B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-Learning-FFD1DC?style=for-the-badge&logo=javascript&logoColor=333333"/>
+<img src="https://img.shields.io/badge/DSA-Learning-C8A2A8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Responsive%20Design-Practicing-FFB6C1?style=for-the-badge"/>
 
 </div>
 
@@ -152,7 +152,7 @@ Creating layouts for different screens.
 
 <div align="center">
 
-## 🪄 MY SKILL JOURNEY
+## 🌷 MY SKILL JOURNEY
 
 <br>
 
@@ -236,17 +236,19 @@ Creating layouts for different screens.
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=anushka0507-gif&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&title_color=ff69b4&icon_color=ff69b4" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anushka0507-gif&show_icons=true&theme=dark&hide_border=true&border_radius=15&title_color=FFB6C1&icon_color=FFB6C1&text_color=FFD1DC" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anushka0507-gif&theme=tokyonight&hide_border=true&border_radius=15&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" width="48%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka0507-gif&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&title_color=ff69b4"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anushka0507-gif&theme=dark&hide_border=true&border_radius=15&ring=FFB6C1&fire=FFD1DC&currStreakLabel=FFB6C1" width="48%"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anushka0507-gif&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true&custom_title=My%20GitHub%20Activity" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka0507-gif&layout=compact&theme=dark&hide_border=true&border_radius=15&title_color=FFB6C1&text_color=FFD1DC"/>
+
+<br><br>
+
+### 🌱 MY GITHUB CONTRIBUTIONS
+
+<img src="https://ghchart.rshah.org/40c463/anushka0507-gif" alt="Anushka's GitHub Contributions" width="95%"/>
 
 </div>
 
@@ -261,28 +263,21 @@ Creating layouts for different screens.
 <table>
 <tr>
 
-<td align="center" width="25%">
+<td align="center" width="33%">
 
 🎨<br>
 <b>Drawing</b>
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="33%">
 
 🎵<br>
 <b>Music</b>
 
 </td>
 
-<td align="center" width="25%">
-
-🏏<br>
-<b>Cricket</b>
-
-</td>
-
-<td align="center" width="25%">
+<td align="center" width="33%">
 
 🌱<br>
 <b>Exploring</b>
@@ -302,7 +297,7 @@ Creating layouts for different screens.
 
 <div align="center">
 
-## 🚀 WHAT'S NEXT
+## ✨ WHAT'S NEXT
 
 <br>
 
@@ -334,29 +329,25 @@ Creating layouts for different screens.
 
 <div align="center">
 
-## 💌 LET'S CONNECT
+## 💌 CONNECT WITH ME
 
-<br><br>
-
-<a href="mailto:anushkabarman0507@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-anushkabarman0507%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/anushka-barman-7a0104380">
 
-<img src="https://img.shields.io/badge/LinkedIn-Anushka%20Barman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-FFD1DC?style=for-the-badge&logo=linkedin&logoColor=333333"/>
 
 </a>
 
-<br><br>
-
 <a href="https://x.com/AnushkaaaB07">
 
-<img src="https://img.shields.io/badge/X-@AnushkaaaB07-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-FFD1DC?style=for-the-badge&logo=x&logoColor=333333"/>
+
+</a>
+
+<a href="mailto:anushkabarman0507@gmail.com">
+
+<img src="https://img.shields.io/badge/EMAIL-FFD1DC?style=for-the-badge&logo=gmail&logoColor=333333"/>
 
 </a>
 
@@ -366,10 +357,10 @@ Creating layouts for different screens.
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Keep+coding+%E2%9C%A8;Keep+learning+%F0%9F%8C%B1;Keep+growing+%F0%9F%92%97"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=Keep+coding+%E2%9C%A8;Keep+learning+%F0%9F%8C%B1;Keep+growing+%F0%9F%92%97"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:12000f,25:4a123c,50:ff1493,75:8a2be2,100:12000f&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:12000f,25:33232a,50:5c4248,75:8a6b72,100:12000f&animation=twinkling"/>
 
 </div>
