@@ -121,4 +121,246 @@ Making webpages interactive and dynamic.
 
 </td>
 
-<td
+<td align="center" width="33%">
+
+### 🧠 DSA
+
+Building problem-solving skills.
+
+</td>
+
+<td align="center" width="33%">
+
+### 📱 Responsive Design
+
+Creating layouts for different screens.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/JavaScript-Learning-FFC4D6?style=for-the-badge&logo=javascript&logoColor=333333"/>
+<img src="https://img.shields.io/badge/DSA-Learning-C8A2FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Responsive%20Design-Practicing-FFB6C1?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌷 MY SKILL JOURNEY
+
+<br>
+
+| Skill | Status |
+|:---:|:---|
+| 🌐 HTML | 🟢 Completed |
+| 🎨 CSS | 🟡 Practicing |
+| ⚡ JavaScript | 🌱 Learning |
+| C | 🟡 Practicing |
+| C++ | 🟡 Practicing |
+| Python | 🟡 Practicing |
+| 🧠 DSA | 🌱 Learning |
+| Git & GitHub | 🟢 Using |
+| VS Code | 🟢 Using |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌙 THE WAY I LEARN
+
+<br>
+
+<table>
+<tr>
+
+<td align="center">
+
+📖<br>
+<b>LEARN</b><br>
+<sub>Understand</sub>
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+💻<br>
+<b>BUILD</b><br>
+<sub>Practice</sub>
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+🐛<br>
+<b>DEBUG</b><br>
+<sub>Find mistakes</sub>
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+✨<br>
+<b>IMPROVE</b><br>
+<sub>Grow</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+**LEARN → BUILD → DEBUG → IMPROVE → REPEAT**
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GITHUB ANALYTICS
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=anushka0507-gif&show_icons=true&theme=dark&hide_border=true&border_radius=15&title_color=FFB6C1&icon_color=FFB6C1&text_color=FFC4D6" width="48%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anushka0507-gif&theme=dark&hide_border=true&border_radius=15&ring=FFB6C1&fire=FFC4D6&currStreakLabel=FFB6C1" width="48%"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka0507-gif&layout=compact&theme=dark&hide_border=true&border_radius=15&title_color=FFB6C1&text_color=FFC4D6"/>
+
+<br><br>
+
+### 🌱 MY GITHUB CONTRIBUTIONS
+
+<img src="https://ghchart.rshah.org/40c463/anushka0507-gif" alt="Anushka's GitHub Contributions" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎀 BEYOND THE CODE
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+🎨<br>
+<b>Drawing</b>
+
+</td>
+
+<td align="center" width="33%">
+
+🎵<br>
+<b>Music</b>
+
+</td>
+
+<td align="center" width="33%">
+
+🌱<br>
+<b>Exploring</b>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+**Design + Curiosity + Technology = Something New**
+
+</div>
+
+---
+
+<div align="center">
+
+## ✨ WHAT'S NEXT
+
+<br>
+
+**FRONTEND**
+
+↓
+
+**JAVASCRIPT**
+
+↓
+
+**DSA**
+
+↓
+
+**MORE PROJECTS**
+
+↓
+
+**KEEP GROWING**
+
+<br><br>
+
+### Keep learning. Keep building. Keep improving.
+
+</div>
+
+---
+
+<div align="center">
+
+## 💌 CONNECT WITH ME
+
+<br>
+
+<a href="https://www.linkedin.com/in/anushka-barman-7a0104380">
+
+<img src="https://img.shields.io/badge/LINKEDIN-FFC4D6?style=for-the-badge&logo=linkedin&logoColor=333333"/>
+
+</a>
+
+<a href="https://x.com/AnushkaaaB07">
+
+<img src="https://img.shields.io/badge/X-FFC4D6?style=for-the-badge&logo=x&logoColor=333333"/>
+
+</a>
+
+<a href="mailto:anushkabarman0507@gmail.com">
+
+<img src="https://img.shields.io/badge/EMAIL-FFC4D6?style=for-the-badge&logo=gmail&logoColor=333333"/>
+
+</a>
+
+<br><br>
+
+<sub>Thanks for visiting my profile 🌸</sub>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=Keep+coding+%E2%9C%A8;Keep+learning+%F0%9F%8C%B1;Keep+growing+%F0%9F%92%97"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:FFB6C1,18:FFC4D6,36:9AD9FF,54:C8A2FF,72:FF9AA2,86:FFE29A,100:FFB6C1&animation=twinkling"/>
+
+</div>
